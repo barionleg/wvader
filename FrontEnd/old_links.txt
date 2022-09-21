@@ -1,1 +1,3 @@
 https://barionleg.github.io/wvader_froide/index.html
+http://cdsbib.u-strasbg.fr/bib/BAVSR.gml
+href="http://simbad.cds.unistra.fr/simbad/
